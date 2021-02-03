@@ -1,0 +1,15 @@
+{
+  "name": "@pundit/icon-font",
+  "version": "1.0.0",
+  "description": "This is the custom Pundit font to be used for all icons in the Pundit annotator interface.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "files": [
+    "font/pundit-icon-font/fonts/*",
+    "font/pundit-icon-font/style.css"
+  ]
+}
