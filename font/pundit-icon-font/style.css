@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'pundit-icon-font';
-  src:  url('fonts/pundit-icon-font.eot?hek7iz');
-  src:  url('fonts/pundit-icon-font.eot?hek7iz#iefix') format('embedded-opentype'),
-    url('fonts/pundit-icon-font.ttf?hek7iz') format('truetype'),
-    url('fonts/pundit-icon-font.woff?hek7iz') format('woff'),
-    url('fonts/pundit-icon-font.svg?hek7iz#pundit-icon-font') format('svg');
+  src:  url('fonts/pundit-icon-font.eot?mn4uh5');
+  src:  url('fonts/pundit-icon-font.eot?mn4uh5#iefix') format('embedded-opentype'),
+    url('fonts/pundit-icon-font.ttf?mn4uh5') format('truetype'),
+    url('fonts/pundit-icon-font.woff?mn4uh5') format('woff'),
+    url('fonts/pundit-icon-font.svg?mn4uh5#pundit-icon-font') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.pundit-icon-angle-right:before {
+  content: "\e90d";
+}
 .pundit-icon-angle-up:before {
   content: "\e90c";
 }
